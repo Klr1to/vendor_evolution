@@ -131,6 +131,9 @@
         <item>privacy/location_indicators_show_system=false</item>
         <item>privacy/location_indicators_small_enabled=true</item>
 
+        <!-- Enable shared connectivity -->
+        <item>wifi/shared_connectivity_enabled=true</item>
+
         <!-- Enable safety center -->
         <item>privacy/safety_center_is_enabled=true</item>
 
