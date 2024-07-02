@@ -160,7 +160,7 @@
         <item>device_personalization_services/Captions__enable_augmented_modality_input=true</item>
         <item>device_personalization_services/Captions__enable_augmented_modality_language_detection=true</item>
         <item>device_personalization_services/Captions__enable_augmented_music=false</item>
-        <item>device_personalization_services/Captions__enable_clearcut_logging=true</item>
+        <item>device_personalization_services/Captions__enable_clearcut_logging=false</item>
         <item>device_personalization_services/Captions__enable_language_detection=true</item>
         <item>device_personalization_services/Captions__enable_punctuations=true</item>
         <item>device_personalization_services/Captions__enable_new_model_version_advanced_2023=true</item>
